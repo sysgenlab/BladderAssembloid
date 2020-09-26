@@ -1,0 +1,67 @@
+Sample1	Sample2	Sample1_Sample2	Concordant	Sample1 only	Sample2 only
+P-1 assembloid	P-1 organoid	P-1 assembloid_P-1 organoid	0.867117117117	0.00675675675676	0.126126126126
+P-1 assembloid	P-1 parental tumour	P-1 assembloid_P-1 parental tumour	0.775210084034	0.0399159663866	0.18487394958
+P-1 assembloid	P-2 assembloid	P-1 assembloid_P-2 assembloid	0.0324254215305	0.470817120623	0.496757457847
+P-1 assembloid	P-2 organoid	P-1 assembloid_P-2 organoid	0.03625	0.44875	0.515
+P-1 assembloid	P-2 parental tumour	P-1 assembloid_P-2 parental tumour	0.0339750849377	0.40543601359	0.560588901472
+P-1 assembloid	P-3 assembloid	P-1 assembloid_P-3 assembloid	0.0309278350515	0.469072164948	0.5
+P-1 assembloid	P-3 organoid	P-1 assembloid_P-3 organoid	0.0313253012048	0.436144578313	0.532530120482
+P-1 assembloid	P-3 parental tumour	P-1 assembloid_P-3 parental tumour	0.0306603773585	0.426886792453	0.542452830189
+P-1 assembloid	P-6 assembloid	P-1 assembloid_P-6 assembloid	0.0337690631808	0.388888888889	0.57734204793
+P-1 assembloid	P-6 organoid	P-1 assembloid_P-6 organoid	0.0313174946004	0.387688984881	0.580993520518
+P-1 assembloid	P-6 parental tumour	P-1 assembloid_P-6 parental tumour	0.0331262939959	0.368530020704	0.5983436853
+P-1 organoid	P-1 parental tumour	P-1 organoid_P-1 parental tumour	0.796	0.086	0.118
+P-1 organoid	P-2 assembloid	P-1 organoid_P-2 assembloid	0.0341047503045	0.503045066991	0.462850182704
+P-1 organoid	P-2 organoid	P-1 organoid_P-2 organoid	0.0364277320799	0.48178613396	0.48178613396
+P-1 organoid	P-2 parental tumour	P-1 organoid_P-2 parental tumour	0.0364806866953	0.43669527897	0.526824034335
+P-1 organoid	P-3 assembloid	P-1 organoid_P-3 assembloid	0.0314389359129	0.501813784764	0.466747279323
+P-1 organoid	P-3 organoid	P-1 organoid_P-3 organoid	0.0341296928328	0.467576791809	0.498293515358
+P-1 organoid	P-3 parental tumour	P-1 organoid_P-3 parental tumour	0.032293986637	0.458797327394	0.508908685969
+P-1 organoid	P-6 assembloid	P-1 organoid_P-6 assembloid	0.0383419689119	0.418652849741	0.543005181347
+P-1 organoid	P-6 organoid	P-1 organoid_P-6 organoid	0.037037037037	0.416666666667	0.546296296296
+P-1 organoid	P-6 parental tumour	P-1 organoid_P-6 parental tumour	0.0395647873393	0.396636993076	0.563798219585
+P-1 parental tumour	P-2 assembloid	P-1 parental tumour_P-2 assembloid	0.0322195704057	0.513126491647	0.454653937947
+P-1 parental tumour	P-2 organoid	P-1 parental tumour_P-2 organoid	0.0345622119816	0.491935483871	0.473502304147
+P-1 parental tumour	P-2 parental tumour	P-1 parental tumour_P-2 parental tumour	0.0336842105263	0.447368421053	0.518947368421
+P-1 parental tumour	P-3 assembloid	P-1 parental tumour_P-3 assembloid	0.0332936979786	0.510107015458	0.456599286564
+P-1 parental tumour	P-3 organoid	P-1 parental tumour_P-3 organoid	0.0369955156951	0.47533632287	0.487668161435
+P-1 parental tumour	P-3 parental tumour	P-1 parental tumour_P-3 parental tumour	0.0339912280702	0.467105263158	0.498903508772
+P-1 parental tumour	P-6 assembloid	P-1 parental tumour_P-6 assembloid	0.0387755102041	0.427551020408	0.533673469388
+P-1 parental tumour	P-6 organoid	P-1 parental tumour_P-6 organoid	0.0364372469636	0.426113360324	0.537449392713
+P-1 parental tumour	P-6 parental tumour	P-1 parental tumour_P-6 parental tumour	0.0379377431907	0.406614785992	0.555447470817
+P-2 assembloid	P-2 organoid	P-2 assembloid_P-2 organoid	0.895089285714	0.015625	0.0892857142857
+P-2 assembloid	P-2 parental tumour	P-2 assembloid_P-2 parental tumour	0.727777777778	0.0277777777778	0.244444444444
+P-2 assembloid	P-3 assembloid	P-2 assembloid_P-3 assembloid	0.0406091370558	0.477157360406	0.482233502538
+P-2 assembloid	P-3 organoid	P-2 assembloid_P-3 organoid	0.0403800475059	0.444180522565	0.515439429929
+P-2 assembloid	P-3 parental tumour	P-2 assembloid_P-3 parental tumour	0.0395348837209	0.43488372093	0.525581395349
+P-2 assembloid	P-6 assembloid	P-2 assembloid_P-6 assembloid	0.0253968253968	0.406349206349	0.568253968254
+P-2 assembloid	P-6 organoid	P-2 assembloid_P-6 organoid	0.0284810126582	0.401898734177	0.569620253165
+P-2 assembloid	P-6 parental tumour	P-2 assembloid_P-6 parental tumour	0.0272452068618	0.384460141271	0.588294651867
+P-2 organoid	P-2 parental tumour	P-2 organoid_P-2 parental tumour	0.737410071942	0.0557553956835	0.206834532374
+P-2 organoid	P-3 assembloid	P-2 organoid_P-3 assembloid	0.0440636474908	0.495716034272	0.460220318237
+P-2 organoid	P-3 organoid	P-2 organoid_P-3 organoid	0.0484429065744	0.460207612457	0.491349480969
+P-2 organoid	P-3 parental tumour	P-2 organoid_P-3 parental tumour	0.0462753950339	0.451467268623	0.502257336343
+P-2 organoid	P-6 assembloid	P-2 organoid_P-6 assembloid	0.0266393442623	0.425204918033	0.548155737705
+P-2 organoid	P-6 organoid	P-2 organoid_P-6 organoid	0.0317297850563	0.419651995906	0.548618219038
+P-2 organoid	P-6 parental tumour	P-2 organoid_P-6 parental tumour	0.0303921568627	0.401960784314	0.567647058824
+P-2 parental tumour	P-3 assembloid	P-2 parental tumour_P-3 assembloid	0.0445930880713	0.540691192865	0.414715719064
+P-2 parental tumour	P-3 organoid	P-2 parental tumour_P-3 organoid	0.0463645943098	0.506849315068	0.446786090622
+P-2 parental tumour	P-3 parental tumour	P-2 parental tumour_P-3 parental tumour	0.0498442367601	0.495327102804	0.454828660436
+P-2 parental tumour	P-6 assembloid	P-2 parental tumour_P-6 assembloid	0.0293838862559	0.468246445498	0.502369668246
+P-2 parental tumour	P-6 organoid	P-2 parental tumour_P-6 organoid	0.0321361058601	0.464083175803	0.503780718336
+P-2 parental tumour	P-6 parental tumour	P-2 parental tumour_P-6 parental tumour	0.0327570518653	0.444949954504	0.522292993631
+P-3 assembloid	P-3 organoid	P-3 assembloid_P-3 organoid	0.852631578947	0.0147368421053	0.132631578947
+P-3 assembloid	P-3 parental tumour	P-3 assembloid_P-3 parental tumour	0.757338551859	0.0489236790607	0.19373776908
+P-3 assembloid	P-6 assembloid	P-3 assembloid_P-6 assembloid	0.0395299145299	0.400641025641	0.559829059829
+P-3 assembloid	P-6 organoid	P-3 assembloid_P-6 organoid	0.0403825717322	0.397449521785	0.562167906482
+P-3 assembloid	P-6 parental tumour	P-3 assembloid_P-6 parental tumour	0.040733197556	0.378818737271	0.580448065173
+P-3 organoid	P-3 parental tumour	P-3 organoid_P-3 parental tumour	0.734545454545	0.116363636364	0.149090909091
+P-3 organoid	P-6 assembloid	P-3 organoid_P-6 assembloid	0.0425531914894	0.431610942249	0.525835866261
+P-3 organoid	P-6 organoid	P-3 organoid_P-6 organoid	0.0454545454545	0.427272727273	0.527272727273
+P-3 organoid	P-6 parental tumour	P-3 organoid_P-6 parental tumour	0.0445736434109	0.408914728682	0.546511627907
+P-3 parental tumour	P-6 assembloid	P-3 parental tumour_P-6 assembloid	0.0397219463754	0.442899702085	0.517378351539
+P-3 parental tumour	P-6 organoid	P-3 parental tumour_P-6 organoid	0.0394866732478	0.440276406713	0.520236920039
+P-3 parental tumour	P-6 parental tumour	P-3 parental tumour_P-6 parental tumour	0.0428163653663	0.41960038059	0.537583254044
+P-6 assembloid	P-6 organoid	P-6 assembloid_P-6 organoid	0.892617449664	0.0486577181208	0.0587248322148
+P-6 assembloid	P-6 parental tumour	P-6 assembloid_P-6 parental tumour	0.864649681529	0.0286624203822	0.106687898089
+P-6 organoid	P-6 parental tumour	P-6 organoid_P-6 parental tumour	0.86529318542	0.0332805071315	0.101426307448

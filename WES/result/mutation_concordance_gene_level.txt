@@ -1,0 +1,9 @@
+Sample	Parental	Concordant	Parental tumor only	Organoid only
+P-1 assembloid	P-1 parental tumour	0.775210084034	0.18487394958	0.0399159663866
+P-1 organoid	P-1 parental tumour	0.796	0.118	0.086
+P-2 assembloid	P-2 parental tumour	0.727777777778	0.244444444444	0.0277777777778
+P-2 organoid	P-2 parental tumour	0.737410071942	0.206834532374	0.0557553956835
+P-3 assembloid	P-3 parental tumour	0.757338551859	0.19373776908	0.0489236790607
+P-3 organoid	P-3 parental tumour	0.734545454545	0.149090909091	0.116363636364
+P-6 assembloid	P-6 parental tumour	0.864649681529	0.106687898089	0.0286624203822
+P-6 organoid	P-6 parental tumour	0.86529318542	0.101426307448	0.0332805071315
