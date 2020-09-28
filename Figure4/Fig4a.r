@@ -4,7 +4,7 @@ options(java.parameters="-Xmx16g")
 library(ggplot2)
 library(ggrepel)
 
-myData <- read.table("data/ame_result_increased.tsv")
+myData <- read.table("data/AME/ame_result_increased.tsv")
 
 adj_p <- myData$V7[2:nrow(myData)]
 score <- numeric(0)
@@ -34,6 +34,6 @@ p <- p + geom_text_repel(data=res[1:10,],
                          point.padding=unit(0.3, "lines"), 
                          box.padding=unit(0.8, "lines"))
 
-pdf(paste0("Figure4/image/Fig4a.pdf"), width=5, height=5)
+pdf("Figure4/image/Fig4a.pdf", width=5, height=5)
 print(p)
 dev.off()
